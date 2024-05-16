@@ -17,7 +17,7 @@
 
 <AppUpdater>
     <update>
-        <latestVersion>4.0.0</latestVersion>
+        <latestVersion>5.0.0</latestVersion>
         <latestVersionCode>40</latestVersionCode>
         <url>https://soundbound.shabinder.in/install</url>
     </update>
